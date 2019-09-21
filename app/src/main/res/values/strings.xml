@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cal</string>
+    <string name="txt_hint_first_number">Enter First Number Here</string>
+    <string name="btn1Text">+</string>
+    <string name="btn2Text">-</string>
+    <string name="btn3Text">/</string>
+    <string name="btn4Text">*</string>
+    <string name="btnLastTxt">=</string>
+</resources>
